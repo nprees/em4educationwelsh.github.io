@@ -1,0 +1,8 @@
+# Site settings
+title: Emily Rees Am Swyddog Addysg
+description: "Dwi'n rhedeg i fod y Swyddog Addysg nesaf dros Undeb Myfyrwyr Prifysgol Abertawe!"
+baseurl: "http://www.em4education.co.uk"
+url: "http://www.em4education.co.uk"
+
+# Build settings
+markdown: kramdown
